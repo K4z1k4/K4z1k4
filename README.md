@@ -1,3 +1,1 @@
-- K4z1k4(かじか) 
-- ut eeic
-- Scalaなど
+
